@@ -20,7 +20,7 @@ let songs = [
         name: "Peaches",
         title: "Peaches",
         artist: "Justin Bieber",
-    },
+    }
 ];
 let isplaying = false;
 let playmusic = () => {
